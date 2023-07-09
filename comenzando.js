@@ -19,7 +19,7 @@ b=a;
 
 //inicializar  variables
 
-var x = 9; //Inicializando la variable
+/*var x = 9; //Inicializando la variable
 var miIdioma = "Español"; //Inicializando la variable
 
 var m; // la variable no esta inivializada
@@ -89,6 +89,51 @@ var totalCompras = 10;
 totalCompras *=7;
 console.log(totalCompras);
 
-var totalSueldos = 1000;
-totalSueldos /=5;
+var totalSueldos = 45000;
+totalSueldos /=2;
 console.log(totalSueldos);
+
+
+console.log("/////////////////////////////");
+console.log("/////////////////////////////");
+ var nombre = "Alan";
+ var apellido =' Turing';
+ //nombre += apellido;
+ console.log(nombre.length);*/
+/*var miSustantivo = "perro";
+var miAdejetivo = "negro";
+var miVerbo = "corrio";
+var miAdverbio = "rapidamente";
+
+
+
+ var palabrasEnBlanco = "El " + miSustantivo + " " + miAdejetivo + " " + miVerbo + " " + miAdverbio + " a la tienda";
+
+ console.log(palabrasEnBlanco);*/
+
+
+ //arreglos o arrays
+/*var listaDeEstudiantes = [["Nora",97] , ["Gino", 85]]
+// var miArreglo = ["jhon" , "miguel" , "emily", "juan"];
+ console.log(listaDeEstudiantes);
+
+ var listaDeProductos = [["Camisa", 5.67, "A123"] , ["Celular" , 1200 , "C123" ],["Cereal", 5.65, "B123"]];
+ console.log(listaDeProductos[0]);
+
+ var miArreglo = [[1,2,3],[4,5,6],[7,8,9]];
+ miArreglo[0][0] = 0; 
+ console.log(miArreglo);
+
+ var estacion ;
+ var estaciones = ["Invierno", "Otoño", "Primavera" ];
+ estaciones.unshift("Verano");
+console.log(estaciones);
+estacion = estaciones.shift();
+console.log(estaciones);
+console.log(estacion);
+*/
+// push(x) agregar un elemento al final del arreglo
+// pop() quitar el ultimo elemento del arrglo
+// shift agregar un elemento al comienzo del arreglo
+// unshift quitar el primer elemento de un arreglo
+
